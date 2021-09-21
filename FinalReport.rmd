@@ -62,7 +62,7 @@ basicCC <- ggplot(dd2,aes(x=race,y=prcnt*100,fill=cappun))
 basicCC + geom_bar(stat="identity", position = "dodge")
 ```
 
-
+To determine what percentages of the different races favored or opposed capital punishment, we called a percentage plot and visually analyzed it. In the "white" race, around 68% approved of capital punishment while 32% opposed In the "black" race, 46% approved of capital punishment while 54% opposed In the "other" race, 56% approved of capital punishment while 44% opposed. All races are different from each other, but the "black" race is reversed from the other two.
 
 ### Numerical Descriptive Results
 
