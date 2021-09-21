@@ -170,6 +170,7 @@ fisherXY = function(x, y, confL = 0, printAll=FALSE){
 fisherXY(mydata$cappun,mydata$race)
 ```
  
+Through the low P-values, we discovered that there was indeed a difference between all three races. The P-value for "black" and "other was 0.02479, the P-value comparing "white" and "other" was 0.0002819, and the P-value comparing "white" and "black" was 0.0000000000000575. Clearly, the biggest difference of opinions is between the "white" and "black" group, followed by the "white" and "other" group in their preference for capital punishment.
 
 # Discussion and Conclusion
 
