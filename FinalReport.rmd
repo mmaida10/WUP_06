@@ -96,6 +96,9 @@ chisqtestGC(table2)
 fisher.test(table2)
 #fisherXY(mydata$race,mydata$cappun)
 ```
+
+To determine if there was indeed a difference between the races’ preference of capital punishment, we ran the chisqtestGC function. The third table, titled, “Contributions to the chi-square statistic.” The major contribution from the chi-square statistic came from the “black” race, as demonstrated through the contribution table. The second, less contribution came from the "white" race. Just beneath the contribution chart, we see that the Chi-square statistic is 32x greater than the degrees of freedom. Clearly, there is a difference.
+
 ```{r}
 fisherXY = function(x, y, confL = 0, printAll=FALSE){
   # Inputs: 
