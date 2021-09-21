@@ -79,6 +79,7 @@ rowPerc(table2)
 colPerc(table2)
 ```
 
+The numerical descriptive results help to confirm the graphical results. Around 68% of the "white" race favors capital punishments, while 32% opposes it. Similarly, the "other" race has a greater amount of people favoring capital punishment: 56% favor it, while 44% oppose it. The "black" race is the most unique, with 46% favoring and 54% opposing.
 
 ## Inferential Results
 
