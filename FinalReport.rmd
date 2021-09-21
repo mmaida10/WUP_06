@@ -175,3 +175,5 @@ Through the low P-values, we discovered that there was indeed a difference betwe
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+The master branch showed distinctions between all three groups, but more so particularly between teh "white" and "black" groups. In contrast to the number2 branch which showed no noticeable difference between the "white" and the "other" races, this master branch showed a noticeable difference between the two races. This is what happens when you have a larger set of data: the differences become more apparent.
