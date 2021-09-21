@@ -169,6 +169,7 @@ fisherXY = function(x, y, confL = 0, printAll=FALSE){
 fisherXY(mydata$cappun,mydata$race)
 ```
  
+ Through the low P-values, we discovered that there was indeed a difference between "white" and "black," as well as "other" and "black." But since the P-value between "white" and "other" was so high, we know there is little difference between "white" and "other" in their preference for capital punishment. 
 
 # Discussion and Conclusion
 
