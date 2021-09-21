@@ -174,3 +174,5 @@ fisherXY(mydata$cappun,mydata$race)
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+The number2 branch showed unnoticeable distinction between the "other" and "white" races, but showed a noticeable difference between the "black" race and other two races. In contrast to the master branch showed a noticeable difference between all three races. This is what happens when you have a lesser set of data: the differences become less apparent.
